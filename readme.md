@@ -15,7 +15,3 @@ Video recording feature Sample link: https://drive.google.com/file/d/14n1nhQKOr5
 
 MacOS/Windows
 Visual Studio Code
-
-# Time Travel Days
-
-None
